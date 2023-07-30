@@ -1,1 +1,1 @@
-# core_php_project
+This project is based on core php with mysql database, has simple CURD type functions, where we listing student data and for showing data list searching and sorting features too there. And other few function like edit, delete and add functionality also added in this simple project.
